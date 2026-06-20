@@ -52,7 +52,7 @@ The main objectives of this analysis are:
 ## 📸 Dashboard Screenshots
 
 ### Dashboard Part 1
-![Dashboard Part 1](images/Screenshot(6).png)
+![Dashboard Part 1](/images/Screenshot%20(6).png)
 
 ### Dashboard Part 2
 ![Dashboard Part 2](images/Screenshot%20(7).png)
