@@ -65,4 +65,4 @@ The coffee shop owner wants to understand sales patterns and identify opportunit
 ![Dashboard Part 1](/images/Screenshot%20(6).png)
 
 ### Dashboard Part 2
-![Dashboard Part 2](images/YOUR-SECOND-IMAGE-NAME.png)
+![Dashboard Part 2](/images/Screenshot%20(7).png)
