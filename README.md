@@ -80,5 +80,5 @@ README.md → Project overview
 ---
 
 ## 👩‍💻 Author
-**Syeda Aamina**  
+**Syeda Aamina Ali**  
 Aspiring Data Analyst | Excel | Data Analytics
