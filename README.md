@@ -58,3 +58,11 @@ The coffee shop owner wants to understand sales patterns and identify opportunit
 - Analyze
 - Share
 - Act
+
+  ## Dashboard Screenshots
+
+### Dashboard Part 1
+![Dashboard Part 1](images/YOUR-FIRST-IMAGE-NAME.png)
+
+### Dashboard Part 2
+![Dashboard Part 2](images/YOUR-SECOND-IMAGE-NAME.png)
